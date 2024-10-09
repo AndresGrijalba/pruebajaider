@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColasPrioridad", "ColasPrioridad\ColasPrioridad.csproj", "{FED00795-C81D-4CFB-A8E6-D288BA05B3C4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prueba", "Prueba\Prueba.csproj", "{310C7F35-852A-4148-90AE-653A97FFC11C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FED00795-C81D-4CFB-A8E6-D288BA05B3C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FED00795-C81D-4CFB-A8E6-D288BA05B3C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FED00795-C81D-4CFB-A8E6-D288BA05B3C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310C7F35-852A-4148-90AE-653A97FFC11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310C7F35-852A-4148-90AE-653A97FFC11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310C7F35-852A-4148-90AE-653A97FFC11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310C7F35-852A-4148-90AE-653A97FFC11C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
