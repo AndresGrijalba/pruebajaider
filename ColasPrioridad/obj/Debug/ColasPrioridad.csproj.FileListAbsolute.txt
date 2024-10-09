@@ -1,0 +1,7 @@
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ColasPrioridad\ColasPrioridad\bin\Debug\ColasPrioridad.exe.config
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ColasPrioridad\ColasPrioridad\bin\Debug\ColasPrioridad.exe
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ColasPrioridad\ColasPrioridad\bin\Debug\ColasPrioridad.pdb
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ColasPrioridad\ColasPrioridad\obj\Debug\ColasPrioridad.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ColasPrioridad\ColasPrioridad\obj\Debug\ColasPrioridad.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ColasPrioridad\ColasPrioridad\obj\Debug\ColasPrioridad.exe
+C:\Users\kevin\OneDrive\Documentos\Visual Studio 2022\Proyectos\ColasPrioridad\ColasPrioridad\obj\Debug\ColasPrioridad.pdb
